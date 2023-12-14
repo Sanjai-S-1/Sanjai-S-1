@@ -24,9 +24,9 @@ Proficient in Structural Bioinformatics, Transcriptomics, Machine Learning, and 
 
 ### Machine Learning
 - Exploratory Data Analysis 
-- Simple models- Linear/Logistic Regression
-- Ensemble Learning - AdaBoost, Gradient Boosting, XGBoost, Random Forest, Stacking, Blending, Voting
-- PCA, UMAP, t-SNE
+- Foundational models- Linear/Logistic Regression
+- Ensemble Learning models - AdaBoost, Gradient Boosting, XGBoost, Random Forest, Stacking, Blending, Voting
+- Dimensionality Reduction - PCA, UMAP, t-SNE
 - Artificial Neural Network 
 
 ### Network Pharmacology
@@ -35,11 +35,11 @@ Proficient in Structural Bioinformatics, Transcriptomics, Machine Learning, and 
 - Gene Ontology and KEGG pathway Analysis
 
 ### Software and Packages
-- **Structural Bioinformatics** - Autodock, Pymol, Chimera, Discovery Studio, Gromacs
+- **Structural Bioinformatics** - Autodock, Pymol, Chimera, Discovery Studio, VMD, Gromacs
   
 - **Next Generation Sequencing** - STAR, Hisat, SAM tools, FeatureCounts, DESeq, Serat, ggplot
   
-- **Machine Learning** - Scikit-Learn, Pandas, Matplotlib, Scipy, Numpy
+- **Machine Learning** - Scikit-Learn, Pandas, Matplotlib, Numpy
   
 - **Network Pharmacology** - Cytoscape, STRING, David database
 
