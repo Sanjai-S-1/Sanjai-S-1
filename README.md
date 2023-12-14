@@ -49,7 +49,7 @@ Proficient in Structural Bioinformatics, Transcriptomics, Machine Learning, and 
 - **Python for Everybody Specialization** (University of Michigan) (Coursera)
 - **One Month International Bioinformatics Workshop on Next Generation Sequencing Analysis** (Decode Life and Premas Life Sciences)
 
-### Publications 📚
+## 📚 Publications 
 
 - **Title:** - Pharmacophore based High Throughput Virtual Screening towards the Discovery of Novel BLK (B-lymphocyte kinase)-tyrosine Kinase Inhibitors  [Read the full publication](https://www.ijper.org/article/1937)
 
