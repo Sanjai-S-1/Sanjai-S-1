@@ -51,11 +51,7 @@ Proficient in Structural Bioinformatics, Transcriptomics, Machine Learning, and 
 
 ### Publications 📚
 
-- **Title:**
-  - Pharmacophore based High Throughput Virtual Screening towards the Discovery of Novel BLK (B-lymphocyte kinase)-tyrosine Kinase Inhibitors
-
-- **Link:**
-  - [Read the full publication](https://www.ijper.org/article/1937)
+- **Title:** - Pharmacophore based High Throughput Virtual Screening towards the Discovery of Novel BLK (B-lymphocyte kinase)-tyrosine Kinase Inhibitors  [Read the full publication](https://www.ijper.org/article/1937)
 
 
 Looking forward to exploring the wonders of bioinformatics together! 🌐✨
