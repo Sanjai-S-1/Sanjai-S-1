@@ -1,46 +1,44 @@
 # Sanjai's Bioinformatics Playground 🧬🔍
 
-Hello! 👋 I'm Sanjai, a Bioinformatics professional passionate about using computational analysis and modeling to understand the mysteries of Biology. 🚀
+Greetings! 👋 I'm Sanjai, a Bioinformatics enthusiast passionate about using computational analysis and modeling to understand the mysteries of Biology. 
 
 ## 🔬 About Me
 
-Passionate about Structural Bioinformatics, Transcriptomics, Machine Learning, and Network Pharmacology. 
+Proficient in Structural Bioinformatics, Transcriptomics, Machine Learning, and Network Pharmacology. 
 
 ## 🛠️ My Skills
 
 ### Programming Languages
-- Python 🐍
-- R 📊
-- Bash 💻
+- Python 
+- R 
+- Bash 
 
 ### Structural Bioinformatics
-- Molecular Modeling 🧪
-- Molecular Docking ⚛️
-- MD Simulations 🔄
+- Molecular Modeling 
+- Molecular Docking 
+- MD Simulations 
 
 ### Next Generation Sequencing (NGS)
-- RNA-seq 🧬
-- scRNA-seq 📊
+- RNA-seq 
+- scRNA-seq 
 
 ### Machine Learning
-- EDA 📈
-- Linear Regression 📉
-- Logistic Regression 📊
-- Decision Tree 🌲
-- Artificial Neural Network 🧠
+- Exploratory Data Analysis 
+- Simple models- Linear/Logistic Regression
+- Ensemble Learning Algorithms - AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost, Random Forest, Stacking, Voting Classifier
+- PCA, UMAP, t-SNE
+- Artificial Neural Network 
+
+### Network Pharmacology
+- Compound/Disease Target Prediction
+- PPI network
+- Gene Ontology and KEGG pathway Analysis
 
 ### Software and Packages
-- Seurat
-- DESeq
-- Numpy
-- Scipy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- Seaborn
-- ggplot
-- AutoDock
-- Pymol
+- Structural Bioinformatics - Autodock, Pymol, Chimera, Discovery Studio, Gromacs
+- Next Generation Sequencing - STAR, Hisat, SAM tools, FeatureCounts, DESeq, Serat, ggplot
+- Machine Learning - Scikit-Learn, Pandas, Matplotlib, Scipy, Numpy
+- Network Pharmacology - Cytoscape, STRING, David database
 
 ## 🎓 Key Courses Taken
 
