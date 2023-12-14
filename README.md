@@ -37,7 +37,7 @@ Proficient in Structural Bioinformatics, Transcriptomics, Machine Learning, and 
 ### Software and Packages
 - **Structural Bioinformatics** - Autodock, Pymol, Chimera, Discovery Studio, VMD, Gromacs
   
-- **Next Generation Sequencing** - STAR, Hisat, SAM tools, FeatureCounts, DESeq, Serat, ggplot
+- **Next Generation Sequencing** - STAR, HISAT2, SAM tools, FeatureCounts, Cell Ranger, DESeq, Serat, ggplot
   
 - **Machine Learning** - Scikit-Learn, Pandas, Matplotlib, Numpy
   
@@ -51,7 +51,7 @@ Proficient in Structural Bioinformatics, Transcriptomics, Machine Learning, and 
 
 ## 📚 Publications 
 
-- **Title:** - Pharmacophore based High Throughput Virtual Screening towards the Discovery of Novel BLK (B-lymphocyte kinase)-tyrosine Kinase Inhibitors  [Read the full publication](https://www.ijper.org/article/1937)
+- **Title:** - Pharmacophore based High Throughput Virtual Screening towards the Discovery of Novel BLK (B-lymphocyte kinase)-tyrosine Kinase Inhibitors.  [Read the full publication](https://www.ijper.org/article/1937)
 
 
 Looking forward to exploring the wonders of bioinformatics together! 🌐✨
