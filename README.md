@@ -35,13 +35,13 @@ Proficient in Structural Bioinformatics, Transcriptomics, Machine Learning, and 
 - Gene Ontology and KEGG pathway Analysis
 
 ### Software and Packages
-- Structural Bioinformatics - Autodock, Pymol, Chimera, Discovery Studio, Gromacs
+- **Structural Bioinformatics** - Autodock, Pymol, Chimera, Discovery Studio, Gromacs
   
-- Next Generation Sequencing - STAR, Hisat, SAM tools, FeatureCounts, DESeq, Serat, ggplot
+- **Next Generation Sequencing** - STAR, Hisat, SAM tools, FeatureCounts, DESeq, Serat, ggplot
   
-- Machine Learning - Scikit-Learn, Pandas, Matplotlib, Scipy, Numpy
+- **Machine Learning** - Scikit-Learn, Pandas, Matplotlib, Scipy, Numpy
   
-- Network Pharmacology - Cytoscape, STRING, David database
+- **Network Pharmacology** - Cytoscape, STRING, David database
 
 ## 🎓 Key Courses Taken
 
