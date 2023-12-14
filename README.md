@@ -49,7 +49,6 @@ Proficient in Structural Bioinformatics, Transcriptomics, Machine Learning, and 
 - **Python for Everybody Specialization** (University of Michigan) (Coursera)
 - **One Month International Bioinformatics Workshop on Next Generation Sequencing Analysis** (Decode Life and Premas Life Sciences)
 
-
 ### Publications 📚
 
 - **Title:**
