@@ -1,4 +1,4 @@
-# Sanjai's Bioinformatics Playground 👨‍💻🧬🔍
+# Hi There 👋
 
 Greetings! 👋 I'm Sanjai, a Bioinformatics enthusiast passionate about using computational analysis and modeling to understand the mysteries of Biology. 
 
